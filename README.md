@@ -17,7 +17,7 @@ This project was built to check spelling mistakes that often go unnoticed by hum
     - Option 2 allows you to set a custom name each time a screenshot is taken (set SS_PREFIX_OPTION to True).
 
 5. Start your appium server by writing appium in cmd or using an Appium GUI
-6. Run main.py using IntelliJ (or any Python IDE)
+6. Run main.py using IntelliJ
 > **Note:** No visual spell checker is completely accurate; you can only enhance the image up to a certain extent for your visual engine, after which the picture deteriorates. Do not rely solely on the software—it is meant to assist you, not replace you.
 
 ## Known issues
